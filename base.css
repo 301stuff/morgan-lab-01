@@ -1,16 +1,15 @@
-@media all and (max-width: 767px) {
 div div {
     background-color: rgb(175, 172, 172);
     outline: 1px solid rgb(75, 72, 72);
-    text-align: center;
 }
+
+@media all and (max-width: 767px) {
+
 }
 @media all and (min-width: 768px) {
-    div div {
-        background-color: rgb(175, 172, 172);
-        outline: 1px solid rgb(75, 72, 72);
-        text-align: center;
-
+    body {
+        max-width: 960px;
+        margin: auto;
     }
     
 }
