@@ -1,0 +1,47 @@
+@media all and (max-width: 767px) {
+    #a {
+        width: 100%;
+        height: 75px;
+    }
+    #b {
+        width: 100%;
+        height: 150px;
+    }
+    #c {
+        width: 100%;
+        height: 125px;
+    }
+    #d {
+        width: 100%;
+        height: 125px;
+    }
+    #e {
+        width: 50%;
+        height: 250px;
+        float: left;
+    }
+    #f {
+        width: 50%;
+        height: 250px;
+        float: right;
+    }
+    #g {
+        width: 50%;
+        height: 250px;
+        float: left;
+    }
+    #h {
+        width: 50%;
+        height: 250px;
+        float: right;
+    }
+    #i {
+        width: 100%;
+        height: 80px;
+        clear: both;
+    }
+
+}
+@media all and (min-width: 768px) {
+    
+}
