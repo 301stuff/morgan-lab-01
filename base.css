@@ -1,0 +1,12 @@
+
+
+@media all and (max-width: 767px) {
+
+}
+@media all and (min-width: 768px) {
+    body {
+        max-width: 960px;
+        margin: auto;
+    }
+    
+}
